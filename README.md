@@ -31,10 +31,6 @@ This application provides a simple eCommerce platform featuring product listings
    - Allows users to configure their product options before adding the item to the cart.
    - Features an "Add to Cart" button for seamless shopping.
 
-[Preview the app in 70 seconds!](https://youtu.be/TffBoZ-2fek)
-
-<!-- **[Task Details](https://scandiweb.notion.site/Junior-Full-Stack-Developer-test-task-3833494124714845b71bf46096b6eeb9)** -->
-
 ## Prerequisites
 
 Before you begin, ensure you have the following software installed on your system to run the project successfully:
@@ -51,7 +47,7 @@ To get started, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/MahmoudYoussef959/scandiweb.git
    ```
 
 2. **Navigate to the Project Directory:**
