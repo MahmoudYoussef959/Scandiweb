@@ -53,7 +53,7 @@ To get started, follow these steps:
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd scandiweb-junior-full-stack-test-assignment
+   cd scandiweb
    ```
 
 3. **Install Dependencies:**
